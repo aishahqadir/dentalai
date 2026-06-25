@@ -1,3 +1,4 @@
+import { describe, expect, it } from 'vitest'
 import { scorePlan } from './prioritisation'
 
 describe('scorePlan', () => {
